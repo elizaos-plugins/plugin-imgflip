@@ -1,4 +1,4 @@
-import { IAgentRuntime, State, Action, Plugin } from '@elizaos/core';
+import { Action, IAgentRuntime, State, Plugin } from '@elizaos/core';
 
 interface Meme {
     url: string;
